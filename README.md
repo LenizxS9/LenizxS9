@@ -12,11 +12,9 @@ Estou aberta a colaborações em projetos de **backend**, especialmente em **aut
 ## 📫 How to reach me ...
 Você pode me encontrar através das minhas redes sociais:
 - **GitHub**: [LenizxS9](https://github.com/LenizxS9)
-- **LinkedIn**: [Leniza](https://www.linkedin.com/in/leniza-linkedin)
+- **LinkedIn**: [Leniza](https://www.linkedin.com/in/leniza?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BQ4ieHbwVRrqM5gFgLrZUmw%3D%3D)
 - **Gmail**: [lenizasouza2018@gmail.com](mailto:lenizasouza2018@gmail.com)
 
-## 😄 Pronouns: ...
-Ela/dela (She/Her)
 
 ## ⚡ Fun fact: ...
 Adoro resolver problemas lógicos e sempre estou em busca de novos desafios! Uma curiosidade sobre mim é que eu me sinto desafiada e empolgada ao trabalhar em soluções que envolvem eficiência e escalabilidade no desenvolvimento **backend**.
@@ -59,7 +57,7 @@ Aqui estão meus links para as redes sociais:
 <div align="left">
   <a href="https://github.com/LenizxS9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  <a href="https://www.linkedin.com/in/leniza-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/leniza?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BQ4ieHbwVRrqM5gFgLrZUmw%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
