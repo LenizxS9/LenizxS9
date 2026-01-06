@@ -1,3 +1,8 @@
+<!-- Banner de fundo (imagem larga e horizontal) -->
+<p align="center">
+  <img src="https://i.pinimg.com/564x/ca/cd/72/cacd722f42ad130b736abe67d9896e63.jpg" alt="banner" width="50%" />
+</p>
+
 # 👋 Hi, I’m Leniza
 
 ## 👀 I’m interested in ...
