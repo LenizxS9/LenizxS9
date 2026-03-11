@@ -63,9 +63,6 @@ Projetos focados em desenvolvimento de software:
 
 ---
 
-
----
-
 ## 📫 How to reach me
 
 - **GitHub:** https://github.com/LenizxS9  
@@ -103,6 +100,9 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>
+
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="30" alt="powerbi logo"/>
+<img width="12" />
   
 </div>
 ---
