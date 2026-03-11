@@ -41,14 +41,16 @@ Também estou estudando **boas práticas de visualização de dados, desenvolvim
 
 ---
 
-## 📊 Data & BI Projects
+## 📊 Data & BI
 
-Aqui você encontrará projetos relacionados a:
+Atualmente estou desenvolvendo meus conhecimentos em **Análise de Dados** e **Business Intelligence**, utilizando ferramentas como **Power BI**, **SQL** e **Python**.
 
-- 📈 Dashboards em **Power BI**
+Ainda não publiquei projetos pessoais nessa área, mas estou trabalhando para desenvolver e compartilhar em breve projetos relacionados a:
+
+- 📈 Dashboards no **Power BI**
 - 📊 Análise exploratória de dados com **Python**
-- 🗄️ Consultas **SQL** para análise de dados
-- 📑 Relatórios e visualizações para tomada de decisão
+- 🗄️ Consultas e análise de dados com **SQL**
+- 📑 Visualização e interpretação de dados para tomada de decisão
 
 ---
 
