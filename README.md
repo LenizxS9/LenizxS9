@@ -42,7 +42,7 @@ Meu objetivo é conquistar minha primeira oportunidade como **QA**, desenvolvend
 
 ## ☕ Programação
 
-* Lógica de Programação
+* JavaScript
 * Java
 * Programação Orientada a Objetos
 * Estruturas de Dados (em andamento)
