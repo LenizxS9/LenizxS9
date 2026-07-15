@@ -8,57 +8,52 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
 
-💼 Atualmente atuo como **Estagiária de Análise de Dados**, desenvolvendo dashboards e análises com **Power BI**, auxiliando na tomada de decisões através de indicadores e visualização de dados.
+💼 Atualmente atuo como **Estagiária de Análise de Dados**, desenvolvendo dashboards e análises utilizando **Power BI**, SQL e Business Intelligence para apoiar a tomada de decisões.
 
-🧪 Estou direcionando minha carreira para a área de **Qualidade de Software (QA)**, estudando **Testes Manuais** e construindo uma base sólida em **JavaScript** para evoluir futuramente para **Automação de Testes**.
+🧪 Estou direcionando minha carreira para a área de **Qualidade de Software (QA)**, estudando testes manuais e construindo uma base sólida em **Java**, com o objetivo de evoluir futuramente para **Automação de Testes** e ampliar meus conhecimentos em desenvolvimento de software.
 
 ---
 
 # 🎯 Objetivo
 
-Meu objetivo é conquistar minha primeira oportunidade como **QA**, desenvolvendo conhecimentos em:
+Meu objetivo é conquistar minha primeira oportunidade como **QA**, desenvolvendo competências em:
 
-* Testes Manuais
-* Qualidade de Software
-* Testes de API
-* SQL
-* JavaScript
-* Automação de Testes
+* 🧪 Testes Manuais
+* 🐞 Reporte de Bugs
+* 📋 Casos de Teste
+* 🌐 Testes de API
+* 🗄️ SQL
+* ☕ Java
+* ⚙️ Automação de Testes
 
 ---
 
 # 📚 Atualmente estou estudando
 
-Minha trilha de estudos inclui:
-
-### 🧪 Qualidade de Software
+## 🧪 Qualidade de Software
 
 * Fundamentos de Testes
 * Testes Manuais
-* Casos de Teste
+* Casos e Cenários de Teste
 * Reporte de Bugs
-* Metodologias Ágeis (Scrum e Kanban)
-
-### 🌐 APIs
-
-* HTTP
-* REST
-* JSON
+* Scrum e Kanban
+* Testes de API
 * Postman
 
-### 🗄️ Banco de Dados
+## ☕ Programação
+
+* Lógica de Programação
+* Java
+* Programação Orientada a Objetos
+* Estruturas de Dados (em andamento)
+
+## 🗄️ Banco de Dados
 
 * SQL
 * Consultas
-* Modelagem básica
+* Modelagem de Dados
 
-### 💻 Programação
-
-* JavaScript
-* Lógica de Programação
-* Node.js (conceitos básicos)
-
-### 📊 Dados
+## 📊 Dados
 
 * Power BI
 * Python
@@ -68,43 +63,45 @@ Minha trilha de estudos inclui:
 
 # 🚀 Minha Jornada
 
-Atualmente estou construindo meu conhecimento e desenvolvendo projetos para aplicar tudo o que estou aprendendo.
+Atualmente estou desenvolvendo meus conhecimentos e construindo experiência prática.
 
-Nos próximos meses, este GitHub será atualizado com projetos relacionados a:
+Nos próximos meses este GitHub será atualizado com projetos relacionados a:
 
 * 🧪 Casos de Teste
 * 🐞 Relatórios de Bugs
 * 🌐 Testes de API
 * 📮 Coleções do Postman
 * 🗄️ Exercícios de SQL
-* 💻 Projetos em JavaScript
-* 🤖 Automação de Testes com Cypress ou Playwright
+* ☕ Projetos em Java
+* 🤖 Primeiros projetos de Automação de Testes
 
 ---
 
 # 💼 Experiência
 
-## Estagiária de Análise de Dados
+## 📊 Estagiária de Análise de Dados
 
 Atualmente trabalho com:
 
-* 📊 Dashboards em Power BI
-* 📈 Business Intelligence
-* 📑 Análise de Dados
-* 🗄️ SQL
-* 📊 Indicadores (KPIs)
-* 📉 Apoio à tomada de decisão
+* Dashboards em Power BI
+* Business Intelligence
+* SQL
+* Análise de Dados
+* Indicadores (KPIs)
+* Apoio à tomada de decisão
 
 ---
 
 # 🛠️ Tecnologias
 
+Estas são algumas das tecnologias com as quais já tive contato por meio de estudos, projetos acadêmicos e projetos pessoais.
+
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
@@ -125,27 +122,20 @@ Atualmente trabalho com:
 # 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=LenizxS9&show_icons=true&theme=dracula&cache_seconds=86400"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenizxS9&layout=compact&theme=dracula&cache_seconds=86400"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LenizxS9&show_icons=true&theme=dracula" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenizxS9&layout=compact&theme=dracula" height="170" />
 </div>
 
 ---
 
 # 📫 Contato
 
-* GitHub: https://github.com/LenizxS9
-* LinkedIn: https://www.linkedin.com/in/leniza
-* Email: [lenizasouza2018@gmail.com](mailto:lenizasouza2018@gmail.com)
+* 💻 GitHub: https://github.com/LenizxS9
+* 💼 LinkedIn: https://www.linkedin.com/in/leniza
+* 📧 E-mail: [lenizasouza2018@gmail.com](mailto:lenizasouza2018@gmail.com)
 
 ---
 
-  
+⭐ Acredito que software de qualidade nasce da combinação entre aprendizado contínuo, atenção aos detalhes e vontade de evoluir constantemente. Atualmente estou construindo minha carreira em **Qualidade de Software**, enquanto fortaleço minha base em **Java** para ampliar minhas possibilidades profissionais.
 
 
